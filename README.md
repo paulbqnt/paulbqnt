@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Asset Management and Quantitative Finance
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : paul dot boquant at gmail dot com
+- 📫 How to reach me : paul.boquant@gmail.com
 
 <!---
 paulbqnt/paulbqnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
