@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paulbqnt
 - 👀 I’m interested in Python, Asset Management and Quantitative Finance
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : paul.boquant@gmail.com
 
 <!---
