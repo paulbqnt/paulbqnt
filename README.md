@@ -1,5 +1,11 @@
-### Hi there 
+### Hi there 👋, I'm Paul
+#### Hi, I'm Paul Boquant, a passionate self-taught Python and a student in Finance from Paris.
 
-I'm Paul from France, and I do content on Finance and Python
+Skills: Python / R / VBA / HTML 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulbqnt&hide=contribs,prs)
+- 🔭 I’m currently working on Python, R, LaTeX 
+- 🌱 I’m currently learning Python, webscraping 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/paulbqnt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paulboquant/)  
+
