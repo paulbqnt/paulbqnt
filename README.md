@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @paulbqnt
-- 👀 I’m interested in Python, Asset Management and Quantitative Finance
-- 🌱 I’m currently learning Python and C++
-- 📫 How to reach me : paul.boquant@gmail.com
+### Hi there 
 
-<!---
-paulbqnt/paulbqnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Paul from France, and I do content on Finance and Python
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulbqnt&hide=contribs,prs)
