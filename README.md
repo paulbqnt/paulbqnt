@@ -4,7 +4,7 @@
 Skills: Python / R / VBA / HTML 
 
 - 🔭 I’m currently working on Python, R, LaTeX 
-- 🌱 I’m currently learning Python, webscraping 
+- 🌱 I’m currently learning Python, webscraping, C++
 
 <code> <img height = "400" src="https://github.com/paulbqnt/paulbqnt/blob/main/vol_no_drift_bm.gif" > </code>
 
