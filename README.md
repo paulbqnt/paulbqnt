@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Paul</h1>
+
+<h3 align="center">A passionate financial market student and linux enthusiast.</h3>
+
+<p align="center"><img src="imgs/hello_there.gif"></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulbqnt&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
+
+- `whoami`  A freshman Pantheon Sorbonne University graduate.
+
+- `uptime`  25 years
+
+- `pwd` New York, USA
+
+- `ps -a`   Learning Financial Engineering and Python and C++
+
+- `neofetch`   Arch Linux, Neovim and terminal based utilities
+
 
 ## 📺 Latest YouTube videos
 
@@ -5,11 +23,7 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-[![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
-[![Run Open Source Code in Seconds with GitPod](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw "Run Open Source Code in Seconds with GitPod")
-[![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://www.youtube.com/watch?v=xsA5QAkr-04 "Custom Help Commands [#2] Select Menus - Python Discord Bot")
-[![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot")
-[![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial")
-[![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")<!-- YOUTUBE:END -->
+[![Random Walk in Python (by AI Eminem)](https://img.youtube.com/vi/Mb09PcG2oRw/0.jpg)](https://www.youtube.com/watch?v=Mb09PcG2oRw "Random Walk in Python (by AI Eminem)")
+[![Call-Put Option Pricing in Python](https://img.youtube.com/vi/_kn8O3OoOT8/0.jpg)](https://www.youtube.com/watch?v=_kn8O3OoOT8 "Call-Put Option Pricing in Python")<!-- YOUTUBE:END -->
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCLSCU5DErChieWmRc9i6bug?sub_confirmation=1)
