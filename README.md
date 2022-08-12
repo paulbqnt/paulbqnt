@@ -24,6 +24,7 @@
 
 <!-- YOUTUBE:START -->
 [![Random Walk in Python (by AI Eminem)](https://img.youtube.com/vi/Mb09PcG2oRw/0.jpg)](https://www.youtube.com/watch?v=Mb09PcG2oRw "Random Walk in Python (by AI Eminem)")
+
 <!-- YOUTUBE:END -->
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCLSCU5DErChieWmRc9i6bug?sub_confirmation=1)
