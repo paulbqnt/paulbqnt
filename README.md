@@ -1,30 +1,49 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1uekV3EN90LIBPTmV3/giphy.gif" width="100"/>
+</div>
 
-<h3 align="center">A passionate financial market student and linux enthusiast.</h3>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/paulboquant/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCLSCU5DErChieWmRc9i6bug">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
-<p align="center"><img src="imgs/hello_there.gif"></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulbqnt&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulbqnt&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- `whoami`  A freshman Pantheon Sorbonne University graduate.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- `uptime`  25 years
+---
 
-- `pwd` New York, USA
+### :man_technologist: About Me :
+I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France
+- :telescope: I’m working as an Assistant Trader in NYC.
 
-- `ps -a`   Learning Financial Engineering and Python and C++
+- :seedling: Learning about Market Finance and Programming.
 
-- `neofetch`   Arch Linux, Neovim and terminal based utilities
+- :zap: In my free time, I solve problems read books and play Chess.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulboquant/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
-## 📺 Latest YouTube videos
 
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
-<!-- YOUTUBE:START -->
-[![Random Walk in Python (by AI Eminem)](https://img.youtube.com/vi/Mb09PcG2oRw/0.jpg)](https://www.youtube.com/watch?v=Mb09PcG2oRw "Random Walk in Python (by AI Eminem)")
-
-<!-- YOUTUBE:END -->
-
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCLSCU5DErChieWmRc9i6bug?sub_confirmation=1)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40 height="40"/>
+</div>
