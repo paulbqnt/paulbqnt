@@ -28,7 +28,11 @@
 
 ### :man_technologist: About Me :
 I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France
+
+I Graduated in **Finance and Asset Management** at [**Paris 1 Panthéon-Sorbonne University**](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-finance-KBURFSFN/master-parcours-finance-et-asset-management-KBURHD2Y.html) in 2021.
 - :telescope: I’m working as an Assistant Trader in NYC.
+
+
 
 - :seedling: Learning about Market Finance and Programming.
 
