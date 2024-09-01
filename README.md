@@ -22,15 +22,6 @@
 
 ---
 
-### Youtube channel :
-
-[![](https://markdown-videos.deta.dev/youtube/_kn8O3OoOT8)](https://youtu.be/_kn8O3OoOT8)
-[![](https://markdown-videos.deta.dev/youtube/unumwFZz0qk)](https://youtu.be/unumwFZz0qk)
-[![](https://markdown-videos.deta.dev/youtube/RigD6BBi9iI)](https://youtu.be/RigD6BBi9iI)
-
-
----
-
 ### :man_technologist: About Me :
 I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France
 
