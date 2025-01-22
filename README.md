@@ -1,53 +1,23 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1uekV3EN90LIBPTmV3/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Hi there, I'm Paul! 👋</h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/paulboquant/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+## My Stack
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,react,typescript,linux,mysql,cpp,azure,kotlin,docker" alt="Python, React, TypeScript, Linux, Mysql Cpp, Azure, Kotlin, Docker">
   </a>
-  <a href="https://www.youtube.com/channel/UCLSCU5DErChieWmRc9i6bug">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</p>
+
+## My stats
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=paulbqnt&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulbqnt&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
   </a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulbqnt&style=flat-square&color=blue" alt=""/>
-</div>
+## My projects
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[Hiram](https://github.com/paulbqnt/hiram) - An Option Pricing Web App built in Kotlin
 
----
+[Blog](https://paulboquant.com/) - My own Blog
 
-### :man_technologist: About Me :
-I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France
-
-I Graduated in **Finance and Asset Management** at [**Paris 1 Panthéon-Sorbonne University**](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-finance-KBURFSFN/master-parcours-finance-et-asset-management-KBURHD2Y.html) in 2021.
-- :telescope: I’m working as a Trader in Düsseldorf, Germany.
-
-
-
-- :seedling: Learning about Market Finance and Programming.
-
-- :zap: In my free time, I solve problems read books and play Chess.
-
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpaulbqnt&logo=leetcode&logoColor=yellow)](https://leetcode.com/paulbqnt/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40 height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
-</div>
