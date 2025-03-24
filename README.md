@@ -18,7 +18,7 @@
 ## My projects
 
 [Hiram](https://github.com/paulbqnt/hiram) - An Option Pricing Web App built in Kotlin
-- [hiram-library](https://github.com/paulbqnt/hiram-pricing) - The Python Library to Price Option
+- [hiram-pricing](https://github.com/paulbqnt/hiram-pricing) - My Python Library to Price Option
 - [hiram-dashboard](https://github.com/paulbqnt/hiram-dashboard) - A convenient way to share new features
   
 [Website](https://paulboquant.com/) - My own Website
