@@ -25,5 +25,5 @@
 
 ## Currently Learning
 
-- Japanese | Networking | Operating Systems
+- Japanese | C++ | Functional programming | Networking | Operating Systems
 
